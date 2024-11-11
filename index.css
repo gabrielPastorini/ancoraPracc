@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+a p {
+  color: black;
+  font-size: 15px;
+}
+a {
+  font-size: 40px;
+  text-decoration: none;
+  color: green;
+}
+.hoje {
+  font-weight: bold;
+  font-size: 25px;
+  color: red;
+}
+.amanha {
+font-weight: bold;
+  font-size: 25px;
+  color: blue;
+}
